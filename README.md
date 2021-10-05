@@ -23,6 +23,10 @@ npm run start
 ### Compiles and minifies for production
 ```
 yarn build
+
+or 
+
+npm run build
 ```
 
 ### Run your unit tests
