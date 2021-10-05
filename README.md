@@ -5,6 +5,10 @@ a app to play music with vue.js
 ## Project setup
 ```
 yarn install
+
+or
+
+npm i
 ```
 
 ### Compiles and hot-reloads for development
