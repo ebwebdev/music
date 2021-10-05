@@ -1,6 +1,6 @@
 # music
 
-a app to play music with vue.js
+a app to play music with vue.js. This app focues on learning vue and not html/css
 
 ## Project setup
 ```
