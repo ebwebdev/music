@@ -1,5 +1,7 @@
 # music
 
+a app to play music with vue.js
+
 ## Project setup
 ```
 yarn install
