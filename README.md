@@ -14,6 +14,10 @@ npm i
 ### Compiles and hot-reloads for development
 ```
 yarn serve
+
+or 
+
+npm run start
 ```
 
 ### Compiles and minifies for production
