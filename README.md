@@ -1,20 +1,32 @@
 # music
 
-a app to play music with vue.js
+a app to play music with vue.js. This app focues on learning vue and not html/css
 
 ## Project setup
 ```
 yarn install
+
+or
+
+npm i
 ```
 
 ### Compiles and hot-reloads for development
 ```
 yarn serve
+
+or 
+
+npm run start
 ```
 
 ### Compiles and minifies for production
 ```
 yarn build
+
+or 
+
+npm run build
 ```
 
 ### Run your unit tests
